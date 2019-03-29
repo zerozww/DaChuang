@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\bin\Debug\DaChuang.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\bin\Debug\DaChuang.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\bin\Debug\DaChuang.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DaChuang\DaChuang\obj\Debug\DaChuang.csprojResolveAssemblyReference.cache
